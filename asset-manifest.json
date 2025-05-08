@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Southern-Metropolitan/static/css/main.e845714e.css",
-    "main.js": "/Southern-Metropolitan/static/js/main.6e0c9717.js",
+    "main.css": "/Southern-Metropolitan/static/css/main.237de957.css",
+    "main.js": "/Southern-Metropolitan/static/js/main.a6aa03c9.js",
     "index.html": "/Southern-Metropolitan/index.html",
-    "main.e845714e.css.map": "/Southern-Metropolitan/static/css/main.e845714e.css.map",
-    "main.6e0c9717.js.map": "/Southern-Metropolitan/static/js/main.6e0c9717.js.map"
+    "main.237de957.css.map": "/Southern-Metropolitan/static/css/main.237de957.css.map",
+    "main.a6aa03c9.js.map": "/Southern-Metropolitan/static/js/main.a6aa03c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e845714e.css",
-    "static/js/main.6e0c9717.js"
+    "static/css/main.237de957.css",
+    "static/js/main.a6aa03c9.js"
   ]
 }
